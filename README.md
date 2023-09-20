@@ -1,7 +1,8 @@
+[![DOI](https://zenodo.org/badge/694232332.svg)](https://zenodo.org/badge/latestdoi/694232332)
 # Strong PUF Security Metrics: Sensitivity of Responses to Single Challenge Bit Flips
 
 This repository provides the code used to run the simulations and create the plots presented in our paper 
-* [**Strong PUF Security Metrics: Sensitivity of Responses to Single Challenge Bit Flips**](), [[]()].
+* [**Strong PUF Security Metrics: Sensitivity of Responses to Single Challenge Bit Flips**]().
 
 It belongs to a series of papers for generic an easy-to-apply security metrics for Strong Physical Unclonable Functions (PUFs). The further manuscripts in this sequence are [as of 20th Sep 23]:
 
